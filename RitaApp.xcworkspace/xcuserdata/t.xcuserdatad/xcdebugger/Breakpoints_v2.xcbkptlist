@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RitaApp/HuanXIn_IM/RedacketSDK/RedpacketOpen/RedPacketChatViewController/RedPacketChatViewController.m"
+            timestampString = "490182200.15794"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RitaApp/gitPack/SDPhotoBrowser/SDBrowserImageView.m"
+            timestampString = "490432568.615095"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "-setImageWithURL:placeholderImage:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RitaApp/gitPack/GetLocationPicture/BrowseImagesViewController.m"
+            timestampString = "490527917.977195"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "-barButtonPressed:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RitaApp/&#x5de5;&#x7a0b;(&#x4e3b;&#x8981;)/ZYLoginViewController.m"
+            timestampString = "500522944.958933"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "-loginButtonClick:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RitaApp/HttpHelper/HttpHelper.m"
+            timestampString = "491450903.066211"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "+loginWithaccess_token:withOpenID:complate:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HttpHelper loginWithaccess_token:withOpenID:complate:]"
+                  moduleName = "RitaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t/Desktop/%E5%8F%8B%E5%AE%A2%E9%9B%86%E5%90%88/RitaApp2016-07-15/RitaApp/HttpHelper/HttpHelper.m"
+                  timestampString = "496293762.298582"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "423">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__56+[HttpHelper loginWithaccess_token:withOpenID:complate:]_block_invoke"
+                  moduleName = "RitaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t/Desktop/%E5%8F%8B%E5%AE%A2%E9%9B%86%E5%90%88/RitaApp2016-07-15/RitaApp/HttpHelper/HttpHelper.m"
+                  timestampString = "496293762.300338"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__56+[HttpHelper loginWithaccess_token:withOpenID:complate:]_block_invoke_2"
+                  moduleName = "RitaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t/Desktop/%E5%8F%8B%E5%AE%A2%E9%9B%86%E5%90%88/RitaApp2016-07-15/RitaApp/HttpHelper/HttpHelper.m"
+                  timestampString = "496293762.302194"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RitaApp/HttpHelper/HttpHelper.m"
+            timestampString = "491450903.066211"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "+writeCommentWithContent:withDynamic_id:complate:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HttpHelper writeCommentWithContent:withDynamic_id:complate:]"
+                  moduleName = "RitaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t/Desktop/%E5%8F%8B%E5%AE%A2%E9%9B%86%E5%90%88/RitaApp2016-07-15/RitaApp/HttpHelper/HttpHelper.m"
+                  timestampString = "496293762.307175"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "530">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__62+[HttpHelper writeCommentWithContent:withDynamic_id:complate:]_block_invoke"
+                  moduleName = "RitaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t/Desktop/%E5%8F%8B%E5%AE%A2%E9%9B%86%E5%90%88/RitaApp2016-07-15/RitaApp/HttpHelper/HttpHelper.m"
+                  timestampString = "496293762.309501"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__62+[HttpHelper writeCommentWithContent:withDynamic_id:complate:]_block_invoke_2"
+                  moduleName = "RitaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t/Desktop/%E5%8F%8B%E5%AE%A2%E9%9B%86%E5%90%88/RitaApp2016-07-15/RitaApp/HttpHelper/HttpHelper.m"
+                  timestampString = "496293762.311359"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RitaApp/&#x9644;&#x8fd1;/&#x52a8;&#x6001;/&#x53d1;&#x5e03;&#x8bf4;&#x8bf4;/ZyReleaseViewController.m"
+            timestampString = "491278782.11074"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "-viewWillAppear:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RitaApp/&#x9644;&#x8fd1;/&#x914d;&#x5bf9;/OnLineFriendViewController.m"
+            timestampString = "491475226.656453"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "-mactToUserWithIndex:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RitaApp/&#x9644;&#x8fd1;/&#x52a8;&#x6001;/view/NearDymaicTopicCell.m"
+            timestampString = "496293668.273857"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "-updateTopciWithModel:withIndex:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
